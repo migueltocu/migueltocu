@@ -9,11 +9,11 @@
 
 print("Hola. Bienvenido al sistema de cálculo de inversiones")
 print("¿Cuánto quieres invertir?")
-capital_inicial = input("")
+capital_inicial = int(input(""))
 print("¿Cuál es el interés anual?")
-interes_anual = input("")
+interes_anual = float(input(""))
 print("¿Cuántos años vas a mantener la inversión?")
-años = input("")
+años = int(input(""))
 
 #Tengo que averiguar la forma de que los datos de input sean int y float y no string.
 capital_final = capital_inicial * (1 + interes_anual) ** (años)
