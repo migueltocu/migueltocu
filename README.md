@@ -3,7 +3,7 @@
 </p>
 
 
-- 🔭 Actualmente trabajo en Attrim Group [Attrim Group](https://attrimgroup.com/) como Digital Consultant
+- 🔭 Actualmente trabajo en DATAIE Sustainability Analytics como Functional Consultant
 - 💬 He empezado el Máster Big Data & Cloud en EDEM
 - 📫 Me puedes encontrar en LinkedIn: [Miguel Torres](https://www.linkedin.com/in/migueltorrescuello/)
 
